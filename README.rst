@@ -4,7 +4,7 @@
 What?
 -----
 
-A fast and slick alternative GUI for Raw Accel.
+A fast and slick alternative GUI for `Raw Accel <https://github.com/a1xd/rawaccel>`_.
 
 Can I use Gooey now?
 --------------------
@@ -16,7 +16,9 @@ Core Ideals of Gooey
 
 - A clean user-interface
 - Understable, descriptive, and user-friendly input fields (+ localization)
-- Customizable via UI editor (and scripting, maybe)
+- Planned customizability via UI editor (and scripting, maybe)
+- The freedom of choice between mouse acceleration backends (drivers)
+- Easy configuration sharing via configuration file or the online Config Browser.
 
 License
 -------
